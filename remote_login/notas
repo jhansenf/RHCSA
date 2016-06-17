@@ -1,3 +1,5 @@
+===== compartir llaves SSH ========
+
 ssh-copy-id root@desktopY
 
 ssh-keygen
