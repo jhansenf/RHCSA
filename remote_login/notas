@@ -1,0 +1,30 @@
+ssh-copy-id root@desktopY
+
+ssh-keygen
+
+ssh-copy-id -i ~/.ssh/id_rsa.pub root@serverx.example.com
+
+
+ssh-copy-id serverx
+
+==== Red Hat support tools =======
+
+redhat-support-tool
+
+
+===== SOS report ======
+
+importante como root 
+
+ejecutar Comando sosreport
+
+ingresar /var/tmp
+
+si uno quiere ver el contenido
+
+tar -xvjf sosreport-*.tar.xz
+
+ingresar a la carpeta de Sosreport
+y ejecutar ls -lR
+
+eliminar rm -rf sosreport*
