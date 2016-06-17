@@ -1,0 +1,7 @@
+/usr : instalación de software, librerias compartidas, incluidos archivos data de programas de lectura y escritura y importantes subdirectorios como:
+	/usr/bin: comandos de usuarios
+	/usr/sbin:comandos de administración de sistemas
+	/usr/local:personalización de software localmente
+
+/etc : archivos de configuración especificos del sistema.
+/var :  
